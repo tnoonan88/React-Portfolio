@@ -1,6 +1,12 @@
+.portfolio-container {
+    background-color: steelblue;
+    padding: 20px;
+}
+
 .fluid-grid {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    padding: 10px, 0px, 10px, 0px;
 }

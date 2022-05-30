@@ -3,3 +3,7 @@ ul li a {
     font-weight: bolder;
     color: black;
 }
+
+.nav-link:active {
+    background-color: steelblue;
+}

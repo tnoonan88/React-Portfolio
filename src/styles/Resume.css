@@ -1,0 +1,20 @@
+.resume-container {
+    background-color: steelblue;
+    padding: 20px;
+}
+
+.resume {
+    font-family: 'Rockwell', Courier, monospace;
+    color: aliceblue;
+    justify-content: center;
+}
+
+.skillList {
+    font-family: 'Rockwell', Courier, monospace;
+    color: aliceblue;
+}
+
+li {
+    font-family: 'Rockwell', Courier, monospace;
+    color: aliceblue;
+}

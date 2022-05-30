@@ -1,0 +1,26 @@
+.projectImg {
+    width: 375px;
+    height: 200px;
+}
+
+.card-header {
+    font-family: 'Rockwell', Courier, monospace;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family: 'Rockwell', Courier, monospace;
+}
+
+.card-body button {
+    border-radius: 10px;
+    background-color: steelblue;
+}
+
+.buttonText {
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Rockwell', Courier, monospace;
+}
