@@ -1,0 +1,12 @@
+.header {
+    background-image: url('../assets/images/banner.webp');
+    width: auto;
+    height: auto;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    padding: 10px;
+    height: 100px;
+}

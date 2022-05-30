@@ -2,10 +2,18 @@
     display: flex;
     justify-content: center;
 }
+.footer {
+    background-color: steelblue;
+}
 
 .logo {
     height: 60px;
     width: auto;
     margin: auto;
     padding: 10px;
+}
+
+.logo:hover {
+    opacity: 0.1;
+    transition: .5s ease;
 }

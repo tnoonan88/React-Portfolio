@@ -1,0 +1,17 @@
+.aboutPage {
+    background-color: steelblue;
+    padding: 10px;
+}
+
+.aboutText {
+    color: aliceblue;
+    align-items: center;
+    padding: 100px;
+}
+
+.pro {
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
