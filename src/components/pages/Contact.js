@@ -1,4 +1,5 @@
 import React from 'react';
+import { validateEmail, checkPassword } from '../../utils/helpers';
 import '../../styles/Contact.css'
 
 export default function Contact() {
