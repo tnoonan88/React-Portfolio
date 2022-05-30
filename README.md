@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description:
-This is a portfolio documenting my growth as a Developer! It is built using React, and hosts my Resume as well as some of my projects that I am most proud of.
+This is a portfolio documenting my growth as a Developer! It is built using React, and hosts my Resume as well as a selection of the projects that I've worked on.
 
 ## Table of Contents:
 * [License](#license)
