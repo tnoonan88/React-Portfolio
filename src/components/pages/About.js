@@ -4,14 +4,9 @@ export default function About() {
   return (
     <div>
       <h1>About Me</h1>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
-      </p>
+      <img src='../public/images/pro.jpg' alt='headshot'/>
+      <p>Currently enrolled in the Georgia Tech Full Stack Web Development bootcamp, I am set to graduate in June! I am a full-stack software developer, proficient in both front end and server side development. I enjoy database managment and excel at MySQL, NoSQL and GraphQL development.</p>
+      <p>Before taking the bootcamp, I worked (and still do) as a sales consultant in fine wine and spirits. In my free time, I like to get outside! I am a runner, climber, cyclist and SCUBA diver.</p>
     </div>
   );
 }
