@@ -1,5 +1,7 @@
 import React from 'react';
 import ProjectCard from '../Card.js';
+import '../../styles/Projects.css';
+
 import pwa from "../../assets/images/pwa.png";
 import techTalk from "../../assets/images/techtalk.png";
 import jobBoard from "../../assets/images/job-board.jpg";
@@ -20,7 +22,7 @@ export default function Projects() {
   return (
     <div>
       <h1>Portfolio</h1>
-      <div>
+      <div className='fluid-grid'>
         {projectsArray.map((project) => (
           <ProjectCard project={project} />
         ))}
