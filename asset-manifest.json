@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.f15c9073.css",
+    "main.js": "/React-Portfolio/static/js/main.5a389ff1.js",
+    "static/media/cinematic.png": "/React-Portfolio/static/media/cinematic.9359e98e8deab0f4cda7.png",
+    "static/media/techtalk.png": "/React-Portfolio/static/media/techtalk.333a1df9bb58ab2fb4d3.png",
+    "static/media/banner.webp": "/React-Portfolio/static/media/banner.b137fb2697dd924871cc.webp",
+    "static/media/pwa.png": "/React-Portfolio/static/media/pwa.009dc35137668d9edb81.png",
+    "static/media/notetaker.png": "/React-Portfolio/static/media/notetaker.5f30488ede60f568954f.png",
+    "static/media/job-board.jpg": "/React-Portfolio/static/media/job-board.e3e08e2ade3012ef93d9.jpg",
+    "static/media/myResume.pdf": "/React-Portfolio/static/media/myResume.fc1a3072905124030834.pdf",
+    "static/media/calendar.png": "/React-Portfolio/static/media/calendar.10e8dc43414f915086ae.png",
+    "static/media/gmail.png": "/React-Portfolio/static/media/gmail.a56ef91abe84840d7237.png",
+    "static/media/linkedin.png": "/React-Portfolio/static/media/linkedin.6d58dbe88058f8dab0f9.png",
+    "static/media/pro.jpg": "/React-Portfolio/static/media/pro.569ce456da0056399b51.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.f15c9073.css.map": "/React-Portfolio/static/css/main.f15c9073.css.map",
+    "main.5a389ff1.js.map": "/React-Portfolio/static/js/main.5a389ff1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f15c9073.css",
+    "static/js/main.5a389ff1.js"
+  ]
+}
