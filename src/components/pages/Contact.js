@@ -1,5 +1,5 @@
 import React from 'react';
-import { validateEmail, checkPassword } from '../../utils/helpers';
+import { validateEmail } from '../../utils/helpers';
 import '../../styles/Contact.css'
 
 export default function Contact() {
@@ -16,12 +16,13 @@ export default function Contact() {
         </div>
         <div className='formField'>
           <p>Email:</p>
-          <input onBlur={blurHandler} placeholder='Email'></input>
+          <input onBlur={validateEmail()} placeholder='Email'></input>
         </div>
         <div className='formField'>
           <p>Message:</p>
           <textarea placeholder='Your message here'></textarea>
         </div>
+        <button className='button'>Submit</button>
       </form>
     </div>
   );
