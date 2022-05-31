@@ -4,6 +4,8 @@
 ## Description:
 This is a portfolio documenting my growth as a Developer! It is built using React, and hosts my Resume as well as a selection of the projects that I've worked on.
 
+![react-portfolio](./src/assets/images/react-portfolio.png)
+
 ## Table of Contents:
 * [License](#license)
 * [Usage](#usage)
