@@ -15,7 +15,7 @@ This is a portfolio documenting my growth as a Developer! It is built using Reac
 The MIT License
 
 ## Usage:
-Visit the page, and click around to navigate!
+[Visit the page](https://tnoonan88.github.io/React-Portfolio/), and click around to navigate!
 
 ## How to Contribute:
 Contact me via GitHub or Email to contribute.
