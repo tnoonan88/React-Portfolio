@@ -9,7 +9,7 @@ function ProjectCard({project}) {
       </div>
       <img className="projectImg" src={project.img} alt='project screenshot'></img>
         <div className="card-body">
-          <button><a className="buttonText" href={project.deployed} target='_blank'>See it work here!</a></button>
+          <button><a className="buttonText" href={project.deployed} target='_blank'>{project.title}</a></button>
           <button><div><a className="buttonText" href={project.github} target='_blank'>Link to Repo</a></div></button>
         </div>
     </div>
