@@ -16,13 +16,13 @@ export default function Contact() {
         </div>
         <div className='formField'>
           <p>Email:</p>
-          <input onBlur={validateEmail()} placeholder='Email'></input>
+          <input onBlur={validateEmail} placeholder='Email'></input>
         </div>
         <div className='formField'>
           <p>Message:</p>
           <textarea placeholder='Your message here'></textarea>
         </div>
-        <button className='button'>Submit</button>
+        <button type="submit" className='btn'>Submit</button>
       </form>
     </div>
   );
